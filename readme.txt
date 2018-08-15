@@ -5,3 +5,4 @@ Git tracks changes.
 My stupid boss prefer SVN.
 Creating a new branch is quick and simple.
 use merge --no-ff
+use fast forward
